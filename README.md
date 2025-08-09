@@ -61,7 +61,7 @@ Certified Unity Junior Programmer and versatile Full Stack Engineer with 3+ year
 <td align="center" width="96"><img src="https://skillicons.dev/icons?i=qt" width="48" /><br>qTest</td>
 <td align="center" width="96"><img src="https://skillicons.dev/icons?i=photon" width="48" /><br>Photon PUN2</td>
 <td align="center" width="96"><img src="https://skillicons.dev/icons?i=hlsl" width="48" /><br>HLSL</td>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=rest" width="48" /><br>REST API</td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=rest" width="48" /><br>REST</td>
 </tr>
 </table>
 
