@@ -41,7 +41,7 @@ Certified Unity Junior Programmer and versatile Full Stack Engineer with 3+ year
 <td align="center" width="96"><img src="https://skillicons.dev/icons?i=javascript" width="48" /><br>JavaScript</td>
 <td align="center" width="96"><img src="https://skillicons.dev/icons?i=java" width="48" /><br>Java</td>
 <td align="center" width="96"><img src="https://skillicons.dev/icons?i=c" width="48" /><br>C</td>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=shell" width="48" /><br>Shell Script</td>
+<td align="center" width="96"><img src="https://www.iconfinder.com/icons/596170/bash_shell_script_sh_icon" width="48" /><br>Shell Script</td>
 </tr>
 <tr>
 <td align="center" width="96"><img src="https://skillicons.dev/icons?i=mysql" width="48" /><br>MySQL</td>
