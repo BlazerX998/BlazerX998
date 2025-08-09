@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Prince Johnson 👋</h1>
-<h3 align="center">Full Stack Engineer | Game Developer | AWS Cloud Enthusiast</h3>
+<h3 align="center">Full Stack Engineer | Game Developer | Artificial Intelligence Enthusiast</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/prince-johnson-64250819b">
