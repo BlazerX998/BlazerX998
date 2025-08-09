@@ -24,24 +24,44 @@ Certified Unity Junior Programmer and versatile Full Stack Engineer with 3+ year
 ## 🧰 My Tech Toolbox
 <table>
 <tr>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=react" width="48" /><br>React</td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=react" width="48" /><br>React.js</td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=redux" width="48" /><br>Redux</td>
 <td align="center" width="96"><img src="https://skillicons.dev/icons?i=nodejs" width="48" /><br>Node.js</td>
 <td align="center" width="96"><img src="https://skillicons.dev/icons?i=django" width="48" /><br>Django</td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=angular" width="48" /><br>Angular</td>
 <td align="center" width="96"><img src="https://skillicons.dev/icons?i=unity" width="48" /><br>Unity</td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=unreal" width="48" /><br>Unreal Engine</td>
 <td align="center" width="96"><img src="https://skillicons.dev/icons?i=aws" width="48" /><br>AWS</td>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=python" width="48" /><br>Python</td>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=cpp" width="48" /><br>C++</td>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=typescript" width="48" /><br>TypeScript</td>
 </tr>
 <tr>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=python" width="48" /><br>Python</td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=cpp" width="48" /><br>C++</td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=cs" width="48" /><br>C#</td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=typescript" width="48" /><br>TypeScript</td>
 <td align="center" width="96"><img src="https://skillicons.dev/icons?i=javascript" width="48" /><br>JavaScript</td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=java" width="48" /><br>Java</td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=c" width="48" /><br>C</td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=shell" width="48" /><br>Shell Script</td>
+</tr>
+<tr>
 <td align="center" width="96"><img src="https://skillicons.dev/icons?i=mysql" width="48" /><br>MySQL</td>
 <td align="center" width="96"><img src="https://skillicons.dev/icons?i=mongodb" width="48" /><br>MongoDB</td>
 <td align="center" width="96"><img src="https://skillicons.dev/icons?i=dynamodb" width="48" /><br>DynamoDB</td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=blender" width="48" /><br>Blender</td>
 <td align="center" width="96"><img src="https://skillicons.dev/icons?i=docker" width="48" /><br>Docker</td>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=git" width="48" /><br>Git</td>
 <td align="center" width="96"><img src="https://skillicons.dev/icons?i=jenkins" width="48" /><br>Jenkins</td>
 <td align="center" width="96"><img src="https://skillicons.dev/icons?i=postman" width="48" /><br>Postman</td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=git" width="48" /><br>Git</td>
+</tr>
+<tr>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=selenium" width="48" /><br>Selenium</td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=html" width="48" /><br>HTML5</td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=css" width="48" /><br>CSS3</td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=vite" width="48" /><br>Vite</td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=qt" width="48" /><br>qTest</td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=photon" width="48" /><br>Photon PUN2</td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=hlsl" width="48" /><br>HLSL</td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=rest" width="48" /><br>REST API</td>
 </tr>
 </table>
 
