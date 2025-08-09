@@ -17,7 +17,7 @@ Certified Unity Junior Programmer and versatile Full Stack Engineer with 3+ year
 - Building scalable backend architectures & immersive cross-platform games.
 - Proficient in **React, Node.js, Django, Unity, AWS (Lambda, EC2, DynamoDB)**.
 - Skilled in RESTful API integration, modular architectures, and cloud deployment optimization.
-- **700+ problems solved on LeetCode** focusing on algorithms & data structures.
+
 
 ---
 
