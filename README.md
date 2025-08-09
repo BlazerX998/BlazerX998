@@ -13,10 +13,11 @@
 ---
 
 ## 🙋‍♂️ About Me
-Certified Unity Junior Programmer and versatile Full Stack Engineer with 3+ years of experience:
-- Building scalable backend architectures & immersive cross-platform games.
-- Proficient in **React, Node.js, Django, Unity, AWS (Lambda, EC2, DynamoDB)**.
-- Skilled in RESTful API integration, modular architectures, and cloud deployment optimization.
+Certified Unity Junior Programmer and versatile Full Stack Engineer with 3+ years of experience building scalable backend systems, engaging front-end interfaces, and immersive cross-platform games.
+
+Proficient in React, Node.js, Django, Unity, and AWS (Lambda, EC2, DynamoDB), I design modular, maintainable architectures, integrate RESTful APIs, and optimize cloud deployments for performance and cost efficiency. My frontend work focuses on delivering responsive, intuitive UIs that enhance user experience, while my backend expertise ensures robust, high-performance infrastructure.
+
+From developing real-time multiplayer systems and custom rendering pipelines to delivering enterprise dashboards with rich, interactive UIs and automation tools, I bring a well-rounded approach that bridges frontend and backend engineering best practices with creative problem-solving. I adapt quickly to emerging technologies and consistently deliver scalable, user-focused solutions that align with business goals and create lasting impact.
 
 
 ---
