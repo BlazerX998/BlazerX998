@@ -40,6 +40,7 @@ From developing real-time multiplayer systems and custom rendering pipelines to 
 <td align="center" width="96"><img src="https://skillicons.dev/icons?i=aws" width="48" /><br>AWS</td>
 </tr>
 <tr>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=azure" width="48" /><br>Azure</td>
 <td align="center" width="96"><img src="https://skillicons.dev/icons?i=python" width="48" /><br>Python</td>
 <td align="center" width="96"><img src="https://skillicons.dev/icons?i=cpp" width="48" /><br>C++</td>
 <td align="center" width="96"><img src="https://skillicons.dev/icons?i=cs" width="48" /><br>C#</td>
@@ -47,30 +48,38 @@ From developing real-time multiplayer systems and custom rendering pipelines to 
 <td align="center" width="96"><img src="https://skillicons.dev/icons?i=javascript" width="48" /><br>JavaScript</td>
 <td align="center" width="96"><img src="https://skillicons.dev/icons?i=java" width="48" /><br>Java</td>
 <td align="center" width="96"><img src="https://skillicons.dev/icons?i=c" width="48" /><br>C</td>
-<td align="center" width="96"><img src="https://iconscout.com/icon/bash-shell-script-7855733_6374566" width="48" /><br>Shell Script</td>
 </tr>
 <tr>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=bash" width="48" /><br>Shell Script</td>
 <td align="center" width="96"><img src="https://skillicons.dev/icons?i=mysql" width="48" /><br>MySQL</td>
 <td align="center" width="96"><img src="https://skillicons.dev/icons?i=mongodb" width="48" /><br>MongoDB</td>
 <td align="center" width="96"><img src="https://skillicons.dev/icons?i=dynamodb" width="48" /><br>DynamoDB</td>
 <td align="center" width="96"><img src="https://skillicons.dev/icons?i=blender" width="48" /><br>Blender</td>
 <td align="center" width="96"><img src="https://skillicons.dev/icons?i=docker" width="48" /><br>Docker</td>
 <td align="center" width="96"><img src="https://skillicons.dev/icons?i=jenkins" width="48" /><br>Jenkins</td>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=postman" width="48" /><br>Postman</td>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=git" width="48" /><br>Git</td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=github" width="48" /><br>GitHub</td>
 </tr>
 <tr>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=bitbucket" width="48" /><br>Bitbucket</td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=git" width="48" /><br>Git</td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=jest" width="48" /><br>Jest</td>
 <td align="center" width="96"><img src="https://skillicons.dev/icons?i=selenium" width="48" /><br>Selenium</td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=postman" width="48" /><br>Postman</td>
 <td align="center" width="96"><img src="https://skillicons.dev/icons?i=html" width="48" /><br>HTML5</td>
 <td align="center" width="96"><img src="https://skillicons.dev/icons?i=css" width="48" /><br>CSS3</td>
 <td align="center" width="96"><img src="https://skillicons.dev/icons?i=vite" width="48" /><br>Vite</td>
+</tr>
+<tr>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=vscode" width="48" /><br>VS Code</td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=pycharm" width="48" /><br>PyCharm</td>
 <td align="center" width="96"><img src="https://skillicons.dev/icons?i=qt" width="48" /><br>qTest</td>
 <td align="center" width="96"><img src="https://skillicons.dev/icons?i=photon" width="48" /><br>Photon PUN2</td>
 <td align="center" width="96"><img src="https://skillicons.dev/icons?i=hlsl" width="48" /><br>HLSL</td>
 <td align="center" width="96"><img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="48" /><br>REST API</td>
+<td align="center" width="96"></td>
+<td align="center" width="96"></td>
 </tr>
 </table>
-
 ---
 
 ## 🚀 Featured Projects
