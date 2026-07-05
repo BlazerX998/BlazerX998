@@ -7,9 +7,14 @@
   </a>
   <a href="mailto:princemjy998@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a
+  </a>
+  <a href="https://leetcode.com/u/princemjy998/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="https://blazerx998.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-0078D4?style=for-the-badge&logo=microsoftpages&logoColor=white" />
+  </a>
 </p>
-
 ---
 
 ## 🙋‍♂️ About Me
