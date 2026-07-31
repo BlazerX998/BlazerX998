@@ -99,6 +99,9 @@ From developing real-time multiplayer systems and custom rendering pipelines to 
 
 ## 📊 GitHub Stats
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=BlazerX998&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" />
+</p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BlazerX998&show_icons=true&theme=tokyonight" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlazerX998&layout=compact&theme=tokyonight" height="150" />
 </p>
