@@ -8,7 +8,7 @@
   <a href="mailto:princemjy998@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/u/princemjy998/">
+  <a href="https://leetcode.com/u/blazerx998/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
   <a href="https://blazerx998.github.io/">
