@@ -97,17 +97,4 @@ From developing real-time multiplayer networking logic, deterministic physics, a
 [![IBM Applied DevOps Engineering](https://img.shields.io/badge/IBM_Applied_DevOps_Engineering-blueviolet?style=for-the-badge&logo=ibm)](https://www.credly.com/badges/bc7e712d-fbbc-4fc0-8938-fe5fa635fa13/)
 [![Full Stack Web Dev (Udemy)](https://img.shields.io/badge/Full_Stack_Web_Dev-blue?style=for-the-badge&logo=udemy)](https://www.udemy.com/certificate/UC-1dfec900-c4f2-430f-99ed-75048e065c80/)
 
----
 
----
-
-## 🔥 Streak & Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BlazerX998&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlazerX998&layout=compact&theme=tokyonight&hide_border=true" height="160" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=BlazerX998&theme=tokyonight&no-frame=true&no-background=true" alt="GitHub Trophies" />
-</p>
