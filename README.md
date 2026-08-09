@@ -106,6 +106,9 @@ From developing real-time multiplayer systems and custom rendering pipelines to 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlazerX998&layout=compact&theme=tokyonight" height="150" />
 </p>
 
+
+---
+
 ## 🔥 Streak & Activity
 
 <p align="center">
@@ -116,4 +119,3 @@ From developing real-time multiplayer systems and custom rendering pipelines to 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=BlazerX998&theme=tokyonight&no-frame=true&no-background=true" alt="GitHub Trophies" />
 </p>
----
