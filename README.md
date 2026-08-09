@@ -109,19 +109,11 @@ From developing real-time multiplayer systems and custom rendering pipelines to 
 ## 🔥 Streak & Activity
 
 <p align="center">
-  <!-- 3D Contribution Calendar -->
-  <img src="https://github-profile-3d-contrib.puppettoon.workers.dev?username=BlazerX998&theme=tokyonight" alt="3D Contribution Graph" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=BlazerX998&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlazerX998&layout=compact&theme=tokyonight&hide_border=true" height="160" />
 </p>
 
 <p align="center">
-  <!-- GitHub Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=BlazerX998&theme=tokyonight&no-frame=true&no-background=true&margin-w=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=BlazerX998&theme=tokyonight&no-frame=true&no-background=true" alt="GitHub Trophies" />
 </p>
-
-<p align="center">
-  <!-- Reliable Contribution Snake Animation -->
-  <img src="https://raw.githubusercontent.com/BlazerX998/BlazerX998/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="100%" />
-</p>
-
-
 ---
