@@ -83,10 +83,10 @@ From developing real-time multiplayer systems and custom rendering pipelines to 
 ---
 
 ## 🚀 Featured Projects
-- **[Placement Management System](https://github.com/BlazerX998/Placement-Management-System)** – Multi-role platform with CRUD workflows, secure resume uploads, and dynamic reporting.
-- **[Snake Xenzia 3D](https://github.com/BlazerX998/Snake-Xenia-3D)** – 3D game with AWS Lambda backend, custom shaders, and leaderboard features.
+- **[Astra Engine](https://github.com/BlazerX998)** – Hybrid WebGL2 & TypeScript 3D game engine with a dual-mode runtime, state framework, and modular rendering pipeline[cite: 2].
+- **[Placement Management System](https://github.com/BlazerX998/Placement-Management-System)** – Multi-role platform with CRUD workflows, secure resume uploads, and dynamic reporting[cite: 2].
+- **[Snake Xenzia 3D](https://github.com/BlazerX998/Snake-Xenia-3D)** – 3D game with AWS Lambda backend, custom shaders, and leaderboard features[cite: 2].
 - **[DineFlow Online Food Ordering App](https://github.com/BlazerX998/DineFlow-Online-Food-Checkout-App-)** – SPA with React Context API, mock backend, and real-time cart sync.
-
 ---
 
 ## 📜 Certificates
