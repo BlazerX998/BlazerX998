@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Prince Johnson 👋</h1>
-<h3 align="center">Full Stack Engineer | Game Developer | Artificial Intelligence Enthusiast</h3>
+<h3 align="center">Full Stack Engineer | Cloud & Game Developer | AI Enthusiast</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/prince-johnson-64250819b">
@@ -15,98 +15,79 @@
     <img src="https://img.shields.io/badge/Portfolio-0078D4?style=for-the-badge&logo=microsoftpages&logoColor=white" />
   </a>
 </p>
+
 ---
 
 ## 🙋‍♂️ About Me
-Certified Unity Junior Programmer and versatile Full Stack Engineer with 4+ years of experience building scalable backend systems, engaging front-end interfaces, and immersive cross-platform games.
+Full Stack & Cloud Engineer with 4+ years of experience engineering distributed web systems, real-time microservices, and interactive 3D application runtimes[cite: 1]. Certified **Unity Junior Programmer** with proven expertise in React, TypeScript, Node.js, AWS, and Azure (AKS) integrations[cite: 1].
 
-Proficient in React, Node.js, Django, Unity, and AWS (Lambda, EC2, DynamoDB), I design modular, maintainable architectures, integrate RESTful APIs, and optimize cloud deployments for performance and cost efficiency. My frontend work focuses on delivering responsive, intuitive UIs that enhance user experience, while my backend expertise ensures robust, high-performance infrastructure.
-
-From developing real-time multiplayer systems and custom rendering pipelines to delivering enterprise dashboards with rich, interactive UIs and automation tools, I bring a well-rounded approach that bridges frontend and backend engineering best practices with creative problem-solving. I adapt quickly to emerging technologies and consistently deliver scalable, user-focused solutions that align with business goals and create lasting impact.
-
+- ⚡ **Frontend Impact:** Optimized rendering cycles and state hydration for high-volume workloads, boosting UI responsiveness by **70%** and handling **4,000+ parallel event streams/min**[cite: 1].
+- ☁️ **Cloud & Microservices:** Migrated AWS workloads to Azure AKS/PaaS using Terraform, built event-driven Lambda pipelines, and cut API retrieval latency by **55%**[cite: 1].
+- 🎮 **Game & Graphics Dev:** Architected hybrid WebGL2/TypeScript render engines and real-time multiplayer networking logic maintaining 60 FPS under load[cite: 1].
 
 ---
 
 ## 🧰 My Tech Toolbox
-<table>
-<tr>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=react" width="48" /><br>React.js</td>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=redux" width="48" /><br>Redux</td>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=nodejs" width="48" /><br>Node.js</td>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=django" width="48" /><br>Django</td>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=angular" width="48" /><br>Angular</td>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=unity" width="48" /><br>Unity</td>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=unreal" width="48" /><br>Unreal Engine</td>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=aws" width="48" /><br>AWS</td>
-</tr>
-<tr>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=azure" width="48" /><br>Azure</td>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=python" width="48" /><br>Python</td>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=cpp" width="48" /><br>C++</td>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=cs" width="48" /><br>C#</td>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=typescript" width="48" /><br>TypeScript</td>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=javascript" width="48" /><br>JavaScript</td>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=java" width="48" /><br>Java</td>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=c" width="48" /><br>C</td>
-</tr>
-<tr>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=bash" width="48" /><br>Shell Script</td>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=mysql" width="48" /><br>MySQL</td>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=mongodb" width="48" /><br>MongoDB</td>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=dynamodb" width="48" /><br>DynamoDB</td>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=blender" width="48" /><br>Blender</td>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=docker" width="48" /><br>Docker</td>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=jenkins" width="48" /><br>Jenkins</td>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=github" width="48" /><br>GitHub</td>
-</tr>
-<tr>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=bitbucket" width="48" /><br>Bitbucket</td>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=git" width="48" /><br>Git</td>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=jest" width="48" /><br>Jest</td>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=selenium" width="48" /><br>Selenium</td>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=postman" width="48" /><br>Postman</td>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=html" width="48" /><br>HTML5</td>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=css" width="48" /><br>CSS3</td>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=vite" width="48" /><br>Vite</td>
-</tr>
-<tr>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=vscode" width="48" /><br>VS Code</td>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=pycharm" width="48" /><br>PyCharm</td>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=qt" width="48" /><br>qTest</td>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=photon" width="48" /><br>Photon PUN2</td>
-<td align="center" width="96"><img src="https://skillicons.dev/icons?i=hlsl" width="48" /><br>HLSL</td>
-<td align="center" width="96"><img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="48" /><br>REST API</td>
-<td align="center" width="96"></td>
-<td align="center" width="96"></td>
-</tr>
-</table>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,redux,nodejs,typescript,javascript,html,css,vite" /><br>
+  <img src="https://skillicons.dev/icons?i=aws,azure,docker,jenkins,github,bitbucket,git,terraform" /><br>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,dynamodb,python,cpp,cs,java,unity" />
+</p>
+
+| Category | Technologies & Tools |
+| :--- | :--- |
+| **Frontend & UI** | React.js, Redux, TypeScript, JavaScript (ES6+), HTML5, CSS3, Vite[cite: 1] |
+| **Backend & APIs** | Node.js, Express, Django, RESTful APIs, Apigee, Postman[cite: 1] |
+| **Cloud & DevOps** | AWS (EC2, EKS, Lambda, S3, CloudWatch), Azure (AKS, PaaS), Docker, Jenkins, Terraform, CI/CD[cite: 1] |
+| **Databases** | MySQL, DynamoDB, MongoDB, Redis[cite: 1] |
+| **Game & Graphics** | Unity, C#, WebGL2, Shader Graph/HLSL, Photon PUN2, Blender[cite: 1] |
+| **QA & Telemetry** | SonarQube, Jest, Selenium, qTest, Rally, CloudWatch[cite: 1] |
+
 ---
 
 ## 🚀 Featured Projects
-- **[Placement Management System](https://github.com/BlazerX998/Placement-Management-System)** – Multi-role platform with CRUD workflows, secure resume uploads, and dynamic reporting.
-- **[Snake Xenzia 3D](https://github.com/BlazerX998/Snake-Xenia-3D)** – 3D game with AWS Lambda backend, custom shaders, and leaderboard features.
-- **[DineFlow Online Food Ordering App](https://github.com/BlazerX998/DineFlow-Online-Food-Checkout-App-)** – SPA with React Context API, mock backend, and real-time cart sync.
+
+- 🕹️ **[Astra Engine](https://github.com/BlazerX998)** – Hybrid WebGL2 & TypeScript 3D game engine featuring a dual-mode runtime splitting engine execution from platform environments[cite: 1].
+- 🐍 **[Snake Xenzia 3D](https://github.com/BlazerX998/Snake-Xenia-3D)** – Serverless 3D game using AWS Lambda and DynamoDB for session control, real-time leaderboards, and custom HLSL shaders[cite: 1].
+- 💼 **[Placement Management System](https://github.com/BlazerX998/Placement-Management-System)** – Multi-role Django platform with RBAC security, automated reporting pipelines, and dynamic SQL exports[cite: 1].
+- 🍔 **[DineFlow Food Ordering App](https://github.com/BlazerX998/DineFlow-Online-Food-Checkout-App-)** – High-performance React SPA leveraging Context API, mock REST backend, and real-time state synchronization.
 
 ---
 
-## 📜 Certificates
-[![Unity Junior Programmer](https://img.shields.io/badge/Unity_Junior_Programmer-black?style=for-the-badge&logo=unity)](https://www.credly.com/badges/80cd4121-a4ca-45aa-9d62-6cd5b904c1f7/linked_in_profile)
-[![AWS Cloud Game Development](https://img.shields.io/badge/AWS_Cloud_Game_Development-orange?style=for-the-badge&logo=amazonaws)](https://www.credly.com/badges/2a2eea60-9b38-457b-98f7-d73c2975af6a)
-[![IBM Applied DevOps Engineering](https://img.shields.io/badge/IBM_Applied_DevOps_Engineering-blueviolet?style=for-the-badge&logo=ibm)](https://www.credly.com/badges/bc7e712d-fbbc-4fc0-8938-fe5fa635fa13/)
-[![Full Stack Web Dev (Udemy)](https://img.shields.io/badge/Full_Stack_Web_Dev-blue?style=for-the-badge&logo=udemy)](https://www.udemy.com/certificate/UC-1dfec900-c4f2-430f-99ed-75048e065c80/)
+## 📜 Certifications
+
+<p align="center">
+  <a href="https://www.credly.com/badges/80cd4121-a4ca-45aa-9d62-6cd5b904c1f7/linked_in_profile">
+    <img src="https://img.shields.io/badge/Unity-Junior_Programmer_Certified-black?style=for-the-badge&logo=unity" />
+  </a>
+  <a href="https://www.credly.com/badges/2a2eea60-9b38-457b-98f7-d73c2975af6a">
+    <img src="https://img.shields.io/badge/AWS-Cloud_Game_Development-orange?style=for-the-badge&logo=amazonaws" />
+  </a>
+  <a href="https://www.credly.com/badges/bc7e712d-fbbc-4fc0-8938-fe5fa635fa13/">
+    <img src="https://img.shields.io/badge/IBM-DevOps_Engineering_Professional-blueviolet?style=for-the-badge&logo=ibm" />
+  </a>
+  <a href="https://www.udemy.com/certificate/UC-1dfec900-c4f2-430f-99ed-75048e065c80/">
+    <img src="https://img.shields.io/badge/Udemy-Full_Stack_Web_Dev-blue?style=for-the-badge&logo=udemy" />
+  </a>
+</p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=BlazerX998&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" />
 </p>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BlazerX998&show_icons=true&theme=tokyonight" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlazerX998&layout=compact&theme=tokyonight" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=BlazerX998&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlazerX998&layout=compact&theme=tokyonight&hide_border=true" height="160" />
 </p>
 
----
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BlazerX998&theme=tokyonight&hide_border=true" height="150" />
+</p>
 
 ## 🔥 Streak & Activity
 <p align="center">
@@ -115,4 +96,14 @@ From developing real-time multiplayer systems and custom rendering pipelines to 
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=BlazerX998&theme=react-dark" />
+</p>
+
+## 🔥 Streak & Activity
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BlazerX998&theme=tokyonight&hide_border=true&date_format=j%20M%20Y" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BlazerX998&theme=react-dark&hide_border=true&radius=8" />
 </p>
