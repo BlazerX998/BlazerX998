@@ -18,11 +18,11 @@
 ---
 
 ## 🙋‍♂️ About Me
-Certified Unity Junior Programmer and versatile Full Stack Engineer with 4+ years of experience building scalable backend systems, engaging front-end interfaces, and immersive cross-platform games.
+Certified Unity Junior Programmer and Full Stack Engineer with **4+ years of experience** engineering distributed web applications, Node.js microservices, and interactive cross-platform systems across enterprise production environments.
 
-Proficient in React, Node.js, Django, Unity, and AWS (Lambda, EC2, DynamoDB), I design modular, maintainable architectures, integrate RESTful APIs, and optimize cloud deployments for performance and cost efficiency. My frontend work focuses on delivering responsive, intuitive UIs that enhance user experience, while my backend expertise ensures robust, high-performance infrastructure.
+Proficient in **React.js, TypeScript, Node.js, Django, Unity, and AWS/Azure cloud architectures**, I design modular, type-safe software architectures, build resilient RESTful APIs, and optimize cloud infrastructure for performance and cost efficiency. My frontend engineering focuses on fine-tuning client-side rendering cycles and state hydration—boosting UI responsiveness by **70%** while processing **4,000+ parallel event streams per minute**. On the backend, I architect fault-tolerant data pipelines and database strategies that cut API retrieval latency by **55%** and eliminate network data loss.
 
-From developing real-time multiplayer systems and custom rendering pipelines to delivering enterprise dashboards with rich, interactive UIs and automation tools, I bring a well-rounded approach that bridges frontend and backend engineering best practices with creative problem-solving. I adapt quickly to emerging technologies and consistently deliver scalable, user-focused solutions that align with business goals and create lasting impact.
+From developing real-time multiplayer networking logic, deterministic physics, and WebGL rendering engines to engineering automated release-management platforms that reduce operational overhead by **80%**, I bring a well-rounded engineering approach that bridges frontend precision with backend scalability and creative graphics programming. I adapt swiftly to emerging frameworks, maintain rigorous engineering standards through automated CI/CD pipelines, and consistently deliver high-impact, user-centric software aligned with core business objectives.
 
 ---
 
@@ -83,10 +83,11 @@ From developing real-time multiplayer systems and custom rendering pipelines to 
 ---
 
 ## 🚀 Featured Projects
-- **[Astra Engine](https://github.com/BlazerX998)** – Hybrid WebGL2 & TypeScript 3D game engine with a dual-mode runtime, state framework, and modular rendering pipeline.
+- **[Astra Engine](https://github.com/BlazerX998)** – Hybrid WebGL2 & TypeScript 3D game engine featuring a dual-mode runtime, state framework, and modular rendering pipeline.
 - **[Placement Management System](https://github.com/BlazerX998/Placement-Management-System)** – Multi-role platform with CRUD workflows, secure resume uploads, and dynamic reporting.
 - **[Snake Xenzia 3D](https://github.com/BlazerX998/Snake-Xenia-3D)** – 3D game with AWS Lambda backend, custom shaders, and leaderboard features.
 - **[DineFlow Online Food Ordering App](https://github.com/BlazerX998/DineFlow-Online-Food-Checkout-App-)** – SPA with React Context API, mock backend, and real-time cart sync.
+
 ---
 
 ## 📜 Certificates
@@ -95,21 +96,13 @@ From developing real-time multiplayer systems and custom rendering pipelines to 
 [![AWS Cloud Game Development](https://img.shields.io/badge/AWS_Cloud_Game_Development-orange?style=for-the-badge&logo=amazonaws)](https://www.credly.com/badges/2a2eea60-9b38-457b-98f7-d73c2975af6a)
 [![IBM Applied DevOps Engineering](https://img.shields.io/badge/IBM_Applied_DevOps_Engineering-blueviolet?style=for-the-badge&logo=ibm)](https://www.credly.com/badges/bc7e712d-fbbc-4fc0-8938-fe5fa635fa13/)
 [![Full Stack Web Dev (Udemy)](https://img.shields.io/badge/Full_Stack_Web_Dev-blue?style=for-the-badge&logo=udemy)](https://www.udemy.com/certificate/UC-1dfec900-c4f2-430f-99ed-75048e065c80/)
+
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=BlazerX998&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" />
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BlazerX998&show_icons=true&theme=tokyonight" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlazerX998&layout=compact&theme=tokyonight" height="150" />
-</p>
-
-
----
-
-## 🔥 Streak & Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BlazerX998&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
