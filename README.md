@@ -90,11 +90,11 @@ From developing real-time multiplayer systems and custom rendering pipelines to 
 ---
 
 ## 📜 Certificates
+[![Azure Databricks Platform Architect](https://img.shields.io/badge/Azure_Databricks_Platform_Architect-FF3621?style=for-the-badge&logo=databricks&logoColor=white)](https://credentials.databricks.com/b39fae6e-7cff-4d04-82d3-d2ee521a18ae#acc.UMFhGasz)
 [![Unity Junior Programmer](https://img.shields.io/badge/Unity_Junior_Programmer-black?style=for-the-badge&logo=unity)](https://www.credly.com/badges/80cd4121-a4ca-45aa-9d62-6cd5b904c1f7/linked_in_profile)
 [![AWS Cloud Game Development](https://img.shields.io/badge/AWS_Cloud_Game_Development-orange?style=for-the-badge&logo=amazonaws)](https://www.credly.com/badges/2a2eea60-9b38-457b-98f7-d73c2975af6a)
 [![IBM Applied DevOps Engineering](https://img.shields.io/badge/IBM_Applied_DevOps_Engineering-blueviolet?style=for-the-badge&logo=ibm)](https://www.credly.com/badges/bc7e712d-fbbc-4fc0-8938-fe5fa635fa13/)
 [![Full Stack Web Dev (Udemy)](https://img.shields.io/badge/Full_Stack_Web_Dev-blue?style=for-the-badge&logo=udemy)](https://www.udemy.com/certificate/UC-1dfec900-c4f2-430f-99ed-75048e065c80/)
-
 ---
 
 ## 📊 GitHub Stats
