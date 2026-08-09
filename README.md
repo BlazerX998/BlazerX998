@@ -106,12 +106,22 @@ From developing real-time multiplayer systems and custom rendering pipelines to 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlazerX998&layout=compact&theme=tokyonight" height="150" />
 </p>
 
----
-
 ## 🔥 Streak & Activity
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BlazerX998&theme=tokyonight" height="150" />
+  <!-- 3D Contribution Calendar -->
+  <img src="https://github-profile-3d-contrib.puppettoon.workers.dev?username=BlazerX998&theme=tokyonight" alt="3D Contribution Graph" width="100%" />
 </p>
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BlazerX998&theme=react-dark" />
+  <!-- GitHub Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=BlazerX998&theme=tokyonight&no-frame=true&no-background=true&margin-w=15" alt="GitHub Trophies" />
 </p>
+
+<p align="center">
+  <!-- Reliable Contribution Snake Animation -->
+  <img src="https://raw.githubusercontent.com/BlazerX998/BlazerX998/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="100%" />
+</p>
+
+
+---
